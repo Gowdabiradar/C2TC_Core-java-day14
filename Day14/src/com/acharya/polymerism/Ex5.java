@@ -21,7 +21,7 @@ void display()
 System.out.println(id+" "+name+" "+age);
 }
 }
-public class Overridingex3 {
+public class Ex5 {
 
 public static void main(String[] args) {
 Student s1=new Student (111,"Ravi");
